@@ -26,7 +26,6 @@ export default function LoginPage() {
             <p className='text-white opacity-70'>¿Todavia sin ClonFLix?</p>
             <Link href="/register" className='opacity'>
                Registrate ya
-               
             </Link>
           </div>
 
